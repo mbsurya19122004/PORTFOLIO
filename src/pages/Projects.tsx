@@ -12,22 +12,7 @@ const projects = [
     tags: ["HTML", "CSS", "JavaScript"],
     links: { github: "https://github.com/mbsurya19122004/speedReader", demo: "https://mbsurya19122004.github.io/speedReader/index.html" },
   },
-  {
-    id: 2,
-    title: "Neon Commerce",
-    description: "An e-commerce platform with a futuristic design system and seamless checkout experience.",
-    image: "https://images.unsplash.com/photo-1761599821310-da0d6356b4f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGNvZGluZyUyMHRlY2hub2xvZ3klMjBkYXJrJTIwYmFja2dyb3VuZHxlbnwxfHx8fDE3NzE2NTE3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-    tags: ["Next.js", "Tailwind", "Stripe"],
-    links: { github: "#", demo: "#" },
-  },
-  {
-    id: 3,
-    title: "Archived Systems",
-    description: "Legacy system migration tool helping enterprises visualize and refactor their architecture.",
-    image: "https://images.unsplash.com/photo-1664526937033-fe2c11f1be25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGFyY2hpdGVjdHVyZSUyMGRpYWdyYW0lMjBhYnN0cmFjdHxlbnwxfHx8fDE3NzE2NTE3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-    tags: ["TypeScript", "GraphQL", "PostgreSQL"],
-    links: { github: "#", demo: "#" },
-  },
+  
 ];
 
 export function Projects() {
